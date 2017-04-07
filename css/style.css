@@ -6,3 +6,11 @@
   border: 1px solid black;
   height: 150px;
 }
+
+.row {
+	margin: 0 auto;
+}
+
+#e {
+	background-color: red;
+}

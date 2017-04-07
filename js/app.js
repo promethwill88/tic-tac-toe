@@ -17,6 +17,7 @@ function playerTurn(){
   	turn = !turn;
 }
 
+// Calling playerTurn
 playerTurn();
 
 // Click Events
